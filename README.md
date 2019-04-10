@@ -1,5 +1,6 @@
 # Humpty Dumpty 
 
+Welcome to the Open Source Project made by the Porte Solutions!
 
 *Humpty Dumpty sat on a wall,* <br/>
 *Humpty Dumpty had a great fall;* <br/>
@@ -29,8 +30,8 @@ Humpty Dumpty is an open source project that has been created for performing fir
 
 ## Why Humpty Dumpty?
 
-I found it quite ironic that Humpty Dumpty would take revenge of the wall. So we use **Humpty Dumpty** for firewall intrusion and bypassing
-if needed.
+I found it quite ironic that Humpty Dumpty would take revenge of the wall. So we use **Humpty Dumpty**
+for firewall intrusion and bypassing if needed.
 
 ## Getting Started
 
