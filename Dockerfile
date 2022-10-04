@@ -4,4 +4,3 @@ USER root
 RUN apt-get update && \
     rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 COPY humptydumpty.sh humptydumpty.sh
-COPY art/ art/
